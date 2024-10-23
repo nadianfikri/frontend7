@@ -9,7 +9,7 @@ export default function RenderingList() {
         <ul>
             <li>
                 {/*tampilkan data buku */}
-                ID={buku.id} judul buku={bukujdlbuku} ISBN={buku.ISBN} 
+                ID={buku.id} judul buku={buku.jdlbuku} ISBN={buku.ISBN} 
             </li>
         </ul>
     ));
